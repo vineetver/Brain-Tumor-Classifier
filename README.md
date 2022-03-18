@@ -19,3 +19,6 @@ Cheng, Jun, et al. "Retrieval of Brain Tumors by Adaptive Spatial Pooling and Fi
 
 ### Conclusion
 
+A neural net model which is supposed to identify what kind of tumor exists in the brain. The model can classify brain tumors between: Meningloma, Glioma and Pitutary Tumors.
+
+The model performs well on seen data but yields poor results on testing data.
